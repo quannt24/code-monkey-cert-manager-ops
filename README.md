@@ -60,6 +60,8 @@ spec:
     secretName: code-monkey-root-ca-secret
 ```
 
+Import `code-monkey-root-ca.crt` to your browser to trust certificates signed by this root CA.
+
 Request Certificates Using the Root CA. For example:
 
 ```yaml
