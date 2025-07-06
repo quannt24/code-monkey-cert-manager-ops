@@ -1,0 +1,8 @@
+*.tgz
+
+secret/
+*secret.yaml
+
+charts/
+Chart.lock
+helm-chart/templated.yaml
